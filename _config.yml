@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   lab hacking projects.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "logansimao.github.io"
+url: "https://logansimao.github.io/"
 
 github:
   username: logansimao # change to your github username
@@ -34,8 +34,8 @@ github:
 #twitter:
 #  username: twitter_username # change to your twitter username
 
-linkedin:
-  username: logan-simão-de-oliveira-21161a207
+#linkedin:
+#  username: logan-simão-de-oliveira-21161a207
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
