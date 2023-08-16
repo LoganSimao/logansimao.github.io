@@ -12,7 +12,7 @@ image:
     alt: Tryhackme
 ---
 
-A TryHackMe room rated as easy focus on webserver exploitation, principal tools used \| nmap \| gobuster \| john \| netcat.
+A TryHackMe room rated as easy focus on webserver exploitation, principal tools used: nmap \| gobuster \| john \| netcat.
 
 
 
@@ -22,7 +22,7 @@ A TryHackMe room rated as easy focus on webserver exploitation, principal tools 
 
 
 
-# Scanning
+## Scanning
 
 
 I started with an Nmap scan since it's a CTF room, if it was a real-world scenario, I would start by doing OhSINT to  to gain a broader understanding of the target.
@@ -41,13 +41,13 @@ This scan just got the top 1000 ports so i ran again with less flags set to see 
 ```shell
 nmap -v -T4 -p- 10.10.158.73 | tee lazyadmin_nmap2.txt
 ```
-This time i did't need to sudo
+This time i did't need to sudo.
 
 ![nmap scan2 filtered](/imgs/lazyadmin/filtered_Screenshot_2023-08-11_19-31-11.png)
 
 The scan revealed a few filtered ports, which could indicate a firewall blocking the scanner. However, given the difficult of this room, I don't believe these findings are significant.
 
-# Reconnaissance
+## Reconnaissance
 
 
 The port 22 running a SSH usually is usefull when we already has some access to the machine, so I will focus on the HTTP port 80 for now.
@@ -79,7 +79,7 @@ I explored how to utilize the exploit, to begin with we need to have some kind o
 
 I forgot I was dealing with a webserver, and at this point I missed the most important thing when doind pentest against an HTTP service, `Directory Discovery`, so let's do that.
 
-I will run gobuster with a medium wordlist
+I will run gobuster with a medium wordlist.
 
 ```shell
 gobuster dir -v -u http://10.10.158.73 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt | tee gobuster.txt
@@ -171,7 +171,7 @@ john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt
 
 Ok great! with that I went to the panel again and tried the credentials.
 
-# Exploiting
+## Exploiting
 
 The credentials worked and now im facing the admin's dashboard and we can confirme the `sweetrice version 1.5.1`.
 
@@ -272,6 +272,8 @@ And we got it!
 ![grabbing last flag](/imgs/lazyadmin/rt_flag.png)
 
 The machine now is ours, and we are ready to do some post exploitation, to maintain access, exfiltrate data, etc. but I'll leave it like that(for now) since this isn't the purpose of the room.
+
+## Final Thoughts
 
 I tried to keep some errors and problems that I stumbled upon, just to add a more realistic perspective, all the time we keep doing research and hitting walls, and this is a big part of the process of hacking, keep that in mind(reminder for myself).
 
