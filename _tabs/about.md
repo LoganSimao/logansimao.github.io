@@ -8,11 +8,11 @@ order: 4
 {: .prompt-tip } -->
 
 ### Hello there,
-I have been studying cybersecurity since 2019, and my passion and dedication to this field have grown stronger over time. My goal is to become a cybersecurity analyst, and I am excited to showcase my educational journey and the skills I have acquired throughout these years and maybe help others along the way.
+I have been studying cybersecurity since 2019, and my passion and dedication to this field have grown stronger over time. My goal is to work in cybersecurity, and I am excited to showcase my educational journey and the skills I have acquired throughout these years and maybe help others along the way.
 
 
 
-Here's my journey until now;
+Here's a sample of my journey until now;
 
 ## Education
 
@@ -23,13 +23,16 @@ Here's my journey until now;
 
 ### TryHackMe Certifications:
 
-* SOC Level 1 - currently studying
 * Jr Penetration Tester - Currently studying
 * Complete Beginner -2023
 * Web Fundamentals - 2022
 * Pre Security - 2022
 * Introduction to Cyber Security -2022
 
+### Técnicas de Invasão _by Bruno Fraga_ Certifications:
+
+* TDI - Tecnicas de Invasão (Intrusion Techniques) - currently studying
+* FCO - Fundamentos em Cibersegurança Ofensiva (Offensive Security Fundamentals) - Currently studying
 
 ### Fundação Bradesco Certifications:
 
@@ -49,7 +52,7 @@ Feel free to connect with me on social media to learn more about me:
 * [**TryHackMe**](https://tryhackme.com/p/Wpx)
 
 
-Thank you for visiting. I look forward to sharing my experiences and insights as I continue on this journey.
+Thank you for visiting. I look forward to sharing my experiences and insights as I continue on this path.
 
 Happy Hacking, 
 
