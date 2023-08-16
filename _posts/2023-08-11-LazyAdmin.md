@@ -1,7 +1,7 @@
 ---
 title: LazyAdmin Write-Up
 date: 2023-08-11 21:00:00 -300
-#categories: [hacking, cyber analyst]
+# toc: true
 categories: [TryHackMe, CTF challenges]
 tags: [pentest, ctf, red team, pentest]     # TAG names should always be lowercase
 #imgs_path: /imgs/lazyadmin/
@@ -9,7 +9,7 @@ tags: [pentest, ctf, red team, pentest]     # TAG names should always be lowerca
 image:
     path: https://blog.tryhackme.com/content/images/2023/06/Generic-Banner.svg
     lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-    alt: Responsive rendering of Chirpy theme on multiple devices.
+    alt: Tryhackme
 ---
 
 A TryHackMe room rated as easy focus on webserver exploitation, principal tools used \| nmap \| gobuster \| john \| netcat.

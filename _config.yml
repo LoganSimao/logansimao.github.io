@@ -18,12 +18,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Logan Simao # the main title
+title: Logan Simão | Wpx # the main title
 
 tagline: Cybersecurity Student | TryHackMe Top 1%  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  lab hacking projects.
+  lab hacking projects, portifolio.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://logansimao.github.io"
