@@ -20,7 +20,7 @@ timezone:
 
 title: Logan Simao # the main title
 
-tagline: Cybersec Student | TryHackMe Top 1%  # it will display as the sub-title
+tagline: Cybersecurity Student | TryHackMe Top 1%  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   lab hacking projects.

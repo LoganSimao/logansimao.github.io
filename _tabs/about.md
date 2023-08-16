@@ -31,7 +31,7 @@ Here's a sample of my journey until now;
 
 ### Técnicas de Invasão _by Bruno Fraga_ Certifications:
 
-* TDI - Tecnicas de Invasão (Intrusion Techniques) - currently studying
+* TDI - Tecnicas de Invasão (Intrusion Techniques) - Currently studying
 * FCO - Fundamentos em Cibersegurança Ofensiva (Offensive Security Fundamentals) - Currently studying
 
 ### Fundação Bradesco Certifications:
