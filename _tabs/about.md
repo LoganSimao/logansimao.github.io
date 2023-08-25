@@ -30,6 +30,9 @@ Here's a sample of my journey until now;
 * Pre Security - 2022
 * Introduction to Cyber Security -2022
 
+My TryHackMe profile:
+<script src="https://tryhackme.com/badge/38548"></script>
+
 ### Técnicas de Invasão _by Bruno Fraga_ Certifications:
 
 * TDI - Tecnicas de Invasão (Intrusion Techniques) - Currently studying
@@ -50,7 +53,7 @@ Feel free to connect with me on social media to learn more about me:
 
 * [**Linkedin**](https://www.linkedin.com/in/logan-sim%C3%A3o-de-oliveira-21161a207)
 
-* [**TryHackMe**](https://tryhackme.com/p/Wpx)
+* [**TryHackMe**](https://tryhackme.com/p/Wpx#badges-achieved)
 
 
 Thank you for visiting. I look forward to sharing my experiences and insights as I continue on this path.
@@ -58,3 +61,4 @@ Thank you for visiting. I look forward to sharing my experiences and insights as
 Happy Hacking, 
 
 Logan
+

@@ -34,7 +34,7 @@ sudo nmap -v -T4 -sV -O 10.10.158.73 | tee lazyadmin_nmap.txt
 
 The `-O` flag requires you to be running as sudo.
 
-The pipe `|` is used to save the output on a file using `tee` while still observing what is happening with the verbose flag `-v`
+The pipe `|` is used to save the output on a file using `tee` while still observing what is happening with the verbose flag `-v`.
 
 This scan just got the top 1000 ports so i ran again with less flags set to see if has some ports "hidden" considering that just 2 ports popped open.
 
