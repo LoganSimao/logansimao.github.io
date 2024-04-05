@@ -11,7 +11,7 @@ toc: true
 ### Hello there,
 I have been studying cybersecurity since 2019, and my passion and dedication to this field have grown stronger over time. My goal is to work in cybersecurity, and I am excited to showcase my educational journey and the skills I have acquired throughout these years and maybe help others along the way.
 
-
+I also like to code scripts and websites. I have experience coding with Python, JavaScript, PHP, and of course, HTML and CSS.
 
 Here's a sample of my journey until now;
 
@@ -21,9 +21,13 @@ Here's a sample of my journey until now;
 
 * Desenvolvimento de Sistemas (System Development) - ETEC Irmã Agostina - 2020-2021 - Graduation Project: [**GitRepo**](https://github.com/LoganSimao/TCC)
 
+### TCM Security:
+
+* Practical Ethical Hacking - Currently studying
 
 ### TryHackMe Certifications:
 
+* Red Teaming - Currently studying
 * Jr Penetration Tester - Currently studying
 * Complete Beginner -2023
 * Web Fundamentals - 2022
